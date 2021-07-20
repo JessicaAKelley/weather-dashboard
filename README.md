@@ -4,7 +4,7 @@
 
 Check out this [weather dashboard](https://jessicaakelley.github.io/weather-dashboard/)!
 
-[![website demo](gif)](link)
+[![website demo](https://media.giphy.com/media/ob9GGCMwTW2PFWIwYN/giphy.gif)
 
 ## The Task:
 
